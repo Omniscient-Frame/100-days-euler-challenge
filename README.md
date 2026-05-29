@@ -1,1 +1,1 @@
-100 days challenge of solivng euler project questions in c++ for logic building
+100 days challenge of solving euler project questions in c++ for logic building
