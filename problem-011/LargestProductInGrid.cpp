@@ -13,6 +13,7 @@ int main(){
         {51, 54, 69, 16, 92},
         {7, 97, 57, 32, 16},
     };
+    
     int rows = grid.size();
     int column = grid[0].size();
     for(int r =0;r<rows;r++){
