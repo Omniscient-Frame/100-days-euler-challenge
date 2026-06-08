@@ -37,7 +37,7 @@ A straightforward solution is:
 This works logically but is slow for large limits because it recomputes many sequences again and again.
 
 Example: the chain for 13 goes through 40, 20, 10, 5, 16, 8, 4, 2.  
-Later, when you start from 10 or 5, you recompute the same parts of the sequence. 
+Later, when you start from 10 or 5, you recompute the same parts of the sequence.
 
 ---
 
